@@ -26,3 +26,25 @@ source myenv/bin/activate
 
 ### 실습 2 : kaggle의 데이터를 선정해 전처리 파이프라인 구축해보기
 ---
+
+<br/>
+
+
+### 실습 3 : 파이썬 프로그래밍 종합 실습
+---
+1-basicPy.py
+- 기초문법
+
+2-classOOP.py
+- 클래스와 객체지향프로그래밍
+
+3-iterGener.py
+- 이터레이터와 제너레이터
+
+4-fileIO.py
+- 파일 입출력
+
+5-exception.py
+- 예외처리
+
+<br/>
